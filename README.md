@@ -7,6 +7,7 @@ TensorFlow implementation of [Ladder Variational Autoencoders](https://papers.ni
   <img src="https://raw.githubusercontent.com/geosada/LVAE/img/reconst3.png" width="112">
   <img src="https://raw.githubusercontent.com/geosada/LVAE/img/reconst4.png" width="112">
 </div>
+
 Right are original inputs and left are reconstructed images.
 This code was written considerably inspired from [Eric Jang's DRAW](https://github.com/ericjang/draw).
 
