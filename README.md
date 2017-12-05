@@ -10,7 +10,6 @@ TensorFlow implementation of [Ladder Variational Autoencoders](https://papers.ni
 </div>
 
 Right are original inputs and left are reconstructed images.
-
 This code was written considerably inspired from [Eric Jang's DRAW](https://github.com/ericjang/draw).
 
 
